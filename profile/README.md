@@ -1,6 +1,3 @@
-
-![pixil-frame-0 (1)](https://github.com/user-attachments/assets/34d4a2fe-edac-472a-9d0b-421f13f75ada)
-
 # 🎙️ _"Hey, this is your **Broother** speaking:"_
 Here's a quick overview of our organisation, **Broothers Inc!**
 <br>
